@@ -1,0 +1,26 @@
+{
+	"name": "ckeditor-toolbarfixed-uikit",
+	"version": "1.0.0",
+	"description": "The Toolbar fixed plugin for CKEditor - JavaScript WYSIWYG web text editor.",
+	"author": {
+		"name": "Regents of the Programmer of Yogyakarta",
+		"email": "admin@aldo-expert.com",
+		"url": "https://www.aldo-expert.com"
+	},
+	"contributors": [
+		{
+			"name": "Aldo Expert",
+			"email": "admin@aldo-expert.com"
+		}
+	],
+	"license": "MIT",
+	"bugs": "https://github.com/aldoexpert/ckeditor-toolbarfixed-uikit/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aldoexpert/ckeditor-toolbarfixed-uikit"
+	},
+	"keywords": [
+		"CKEditor",
+		"Readmore"
+	]
+}

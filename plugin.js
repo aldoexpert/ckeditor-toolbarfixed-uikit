@@ -8,7 +8,7 @@ CKEDITOR.plugins.add( 'toolbarfixed', {
 		} else {
 			setTimeout(function(){
 				$('.cke_top').each(function(){
-					$(this).attr('uk-sticky', 'offset: 0; bottom: true');
+					$(this).attr('uk-sticky', 'offset: 0; bottom: true; end: true');
 				});
 				UIkit.sticky('.cke_top[uk-sticky]', {});
 			}, 1500);
